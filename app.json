@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://t.me/Uploader_X_bot",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "website": "https://github.com/MSTL-Updates",
+  "repository": "https://github.com/MSTL-Updates/UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
